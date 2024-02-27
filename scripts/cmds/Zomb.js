@@ -3,7 +3,7 @@ const fs = require("fs");
 
 module.exports = {
 	config: {
-		name: "zomm",
+		name: "zomb",
 		aliases: [],
 		author: "Who's Deku/kira", // hindi ito collab, ako kasi nag convert :>
 		version: "69",
