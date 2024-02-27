@@ -13,7 +13,7 @@ module.exports = {
 	config: {
 		name: "hubble",
 		version: "1.2",
-		author: "NTKhang",
+		author: "NTKhangg",
 		countDown: 5,
 		role: 0,
 		shortDescription: {
